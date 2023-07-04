@@ -4,7 +4,7 @@ body{font-family: Arial; margin:0;}
   width: 90px; margin-left: 100px;
 }
 .header_section{
-  background-image: url("../../Assets/Images/Jogs_gate.jpg"); height:650px; background-repeat: no-repeat; background-size: 650px; background-position: center;
+  background-image: url("../Assets/Images/Jogs_gate.jpg"); height:650px; background-repeat: no-repeat; background-size: 650px; background-position: center;
 }
 .logo_sec1{display: flex;}
 .logo_sec2{
