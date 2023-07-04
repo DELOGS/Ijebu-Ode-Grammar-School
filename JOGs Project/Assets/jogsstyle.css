@@ -1,0 +1,75 @@
+body{font-family: Arial; margin:0;}
+
+.jogslogo{
+  width: 90px; margin-left: 100px;
+}
+.header_section{
+  background-image: url("../Assets/Images/Jogs_gate.jpg"); height:650px; background-repeat: no-repeat; background-size: 650px; background-position: center;
+}
+.logo_sec1{display: flex;}
+.logo_sec2{
+  background-color: rgba(3, 88, 3, 0.1); height: 650px; width: 300px; display: inline-block;
+}
+.logo_sec{
+  background-color: rgba(4, 109, 4, 0.3); height: 650px; width: 400px; display: inline-block; margin-left: -200px;
+}
+
+p{margin-left: 30px;}
+.p1{margin-top: 250px; font-size: 20px; font-weight: 900; margin-bottom:10px; color: rgb(236, 236, 3);}
+.p2{font-size: 50px; color:white; font-weight: 700; margin-top: 0; line-height: 40px;}
+
+.utility {
+  width: 100%; background-color: rgba(5, 145, 5, 0.5); height: 0px; display: flex; box-shadow: 0px 20px 60px 60px rgba(3, 151, 3, 1); border-style: none; position: fixed;
+}
+
+a{text-decoration: none; margin-left: 100px; margin-top: 20px; font-size: 15px; font-weight: 900; color: white; text-align: left;}
+
+.first_section{display: flex; margin-top: 20px; }
+.history{display:inline-block; width:45%; padding-left: 100px; padding-top: 120px;}
+.htitle{margin-bottom: 20px; color: rgb(69, 167, 45); font-size: 25px; font-weight: 700;}
+.htext{
+  line-height: 30px; width: 70%; color: rgb(73, 69, 69); margin-bottom: 30px;
+}
+.lbutton{
+  width: 25%; height: 30px; border-radius: 15px; border-style: none; background-color: rgb(0, 153, 0); font-weight: 900px; color: white; font-size: 17px;
+}
+.linksec{display: inline-block; width: 50%; padding-left: 200px; padding-right: 0px; margin-right: 0px; color: white; font-weight: 700;}
+.linksec1{display: flex; width: 100%; height: 250px; text-align: center;}
+.linksec2{display: flex; width: 100%;height: 250px; text-align: center;}
+.ict{width: 35%; padding-top: 115px; background-color: lightgreen;}
+.sportal{width: 35%;padding-top: 115px; background-color: rgb(1, 73, 1);}
+.pta{width: 35%; padding-top: 115px;background-color: green;}
+.jogsoba{width: 35%; padding-top: 115px;background-color: rgb(78, 1, 78);}
+
+.linksec3{display: flex; width: 80.3%; height: 200px; margin-left: 100px; text-align: center;font-weight: 700;}
+.news{width: 20%;padding-top: 115px; background-color: rgb(110, 235, 110);color: rgb(247, 247, 51);}
+.video{width: 66%; padding-top: 115px;background-color: rgb(173, 99, 173);}
+.lresource{width: 19%; padding-top: 115px;background-color: rgb(0, 0, 0); color: green;}
+
+.brochure{
+  height: 50px; background-color: rgb(78, 1, 78); text-align: center; padding-top: 40px; font-weight: 800; color: white;
+}
+.EBro{
+  border-style: none; background-color: green; height: 30px; width: 150px; border-radius: 20px;
+}
+.gallery{
+  height: 200px; background-color: rgb(39, 33, 33); text-align: center; color: white; padding-top: 200px;
+}
+
+footer{
+  height: 155px;
+}
+.footer_column{
+  height: 100px; display: flex; text-align: center; margin-top: 50px; margin-left: 200px;
+}
+.contact{width: 40%; background-color: lightgreen; padding-top: 40px; font-weight: 700;}
+
+.socials{ width: 40%; background-color: green;}
+i {width: 50px; padding-top: 20px;}
+
+.footer_row{display: flex; margin-top: 20px; background-color: black; height:55px; margin-bottom: 0px;}
+.rights{display: flex; width: 70%; color: rgb(146, 133, 17);}
+.jogslogo2{width: 50px; padding-left: 20px;}
+.name {font-weight: 700; font-size: 20px;margin-top: 4px;}
+.copy{ font-weight: 700; font-size: 12px; margin-top: 20px; margin-left: 100px}
+.company {width: 30%; color: white; font-size: 12px; margin-top: 20px; text-align: left; padding-right: 0px; margin-right: 0px; padding-left: 100px;}
